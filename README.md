@@ -43,6 +43,19 @@ Le code est avant tout une aventure humaine et intellectuelle.
 
 ---
 
+### 📊 Mon Activité en Temps Réel
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LudovicMangone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistiques de Ludovic" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudovicMangone&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langages" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LudovicMangone&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 📫 Me contacter
 * 💼 [Mon Profil LinkedIn](https://www.linkedin.com/in/ludovic-mangone/)
 
